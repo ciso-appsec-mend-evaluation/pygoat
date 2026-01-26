@@ -27,7 +27,7 @@ php-wsgi==0.0.12
 Pillow==8.0.0
 psycopg2==2.9.3
 pycodestyle==2.7.0
-pycparser==2.21
+pycparser==3.0
 pyflakes==2.3.1
 PyJWT==2.4.0
 python3-openid==3.2.0
